@@ -1,4 +1,4 @@
-## 1.Handler, Looper,MessageQueue的理解  
+1.Handler, Looper,MessageQueue的理解  
 https://github.com/Dragonchang/ZflThreadPool   
   （1）.应用卡顿的时候在loop加systrace，检查UI线程中有哪些消息执行时间过长。  
   （2）.加history message机制，检查app发生ANR时候是什么消息比较耗时。  
